@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="956dc219-6342-45d2-9af5-61d9581b5835" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="956dc219-6342-45d2-9af5-61d9581b5835" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,12 +205,12 @@
       <option name="presentableId" value="Default" />
       <updated>1548888126577</updated>
       <workItem from="1548888127932" duration="413000" />
-      <workItem from="1548888608511" duration="1518000" />
+      <workItem from="1548888608511" duration="1681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1931000" />
+    <option name="totallyTimeSpent" value="2094000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -225,9 +223,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="325" y="44" width="1401" height="992" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25354213" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25354213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -240,7 +237,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32906976" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32906976" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32906976" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
