@@ -8,6 +8,7 @@ class ArticlesController < ApplicationController
   end
 
   def set_article
+
   end
 
   # GET /articles/1
@@ -23,6 +24,17 @@ class ArticlesController < ApplicationController
 
   # GET /articles/1/edit
   def edit
+    @article = Article.find(params[:id])
+  end
+
+  def update
+    @article = Article.find(params[:id])
+    if @article.update(article_params)
+      flash[:notice] = "Article successfully updated!"
+      redirect_to article_path(@article)
+    else
+      render 'edit'
+    end
   end
 
   # POST /articles
